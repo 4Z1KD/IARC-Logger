@@ -1,5 +1,5 @@
 # IARC-Logger
-Simple version of HolyLogger just for IARC contests and events
+A simple version of HolyLogger - just for IARC contests and events
 
 <img width="25%" alt="IARC-Logger" src="https://github.com/user-attachments/assets/87741728-5807-4d06-bd65-8fa80b037339" />
 
